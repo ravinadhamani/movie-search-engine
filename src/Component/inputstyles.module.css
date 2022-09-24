@@ -1,0 +1,12 @@
+input {
+  width: 75%;
+  height: 30px;
+  justify-content: space-around;
+  margin-top: 30px;
+  text-align: center;
+  color: gray;
+  font-size: large;
+}
+input:hover {
+  color: black;
+}
