@@ -28,7 +28,7 @@ const Signup = () => {
       <div className={styles.App}>
       <div className={styles.appAside}></div>
       <div className={styles.appForm}>
-        <h2 className={styles.formTitle}>IPL App Signup</h2>
+        <h2 className={styles.formTitle}>Movie Search Engine Signup</h2>
         {error && <Alert variant="danger">{error}</Alert>}
         <Form onSubmit={handleSubmit}>
           <Form.Group controlId="formBasicEmail">
